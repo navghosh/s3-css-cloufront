@@ -1,0 +1,13 @@
+/* w/o touching any of the starter html code in index.html, write css in app.css */
+    li {
+    color: blue;
+}
+
+.done{
+    color:grey;
+}
+
+#clear{
+    background-color: red;
+    color:white;
+}
